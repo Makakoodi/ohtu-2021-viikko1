@@ -1,9 +1,9 @@
-*.tmp
-__pycache__
-
-<<<<<<< HEAD
-__pycache__/
-
-=======
->>>>>>> 34cb087f7f4311dbc18530785c08c98cf3dadc3a
+.vscode
+.DS_Store
+.coverage
 .pytest_cache
+htmlcov
+coverage.xml
+__pycache__
+*.py[cod]
+*$py.class
