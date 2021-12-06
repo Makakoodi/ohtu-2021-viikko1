@@ -1,6 +1,6 @@
 import unittest
 from varasto import Varasto
-
+#asdasd
 
 def main():
     mehua = Varasto(100.0)
